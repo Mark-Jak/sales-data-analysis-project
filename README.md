@@ -1,6 +1,6 @@
 # sales-data-analysis-project
 Sales data analysis using mysql and power BI
-import .sql file into mysql serberr using mysql work bench
+import .sql file into mysql server using mysql work bench
 load data into power bi and clean data 
   - remove sales which are -1, or 0
   - convert sales which are in usd to INR
