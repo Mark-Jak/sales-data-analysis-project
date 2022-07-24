@@ -6,7 +6,7 @@ load data into power bi and clean data
   - convert sales which are in usd to INR
   - clean text  and remove the non  printable  charachters
 
-create charts and dash bord
+create charts and dashboard
   
 
 
